@@ -5,8 +5,8 @@ A Live Clock Project which shows current time always with appropriate abbreviati
 A beginner-friendly project to get started with web development, especially React-Native. 
 
 # Stack Used
-> JavaScript
-> React-Native
+- JavaScript
+- React-Native
 
 # Set up required to run
 - Pre-requisite -> Install node in your system and add it to environment path variable.
@@ -28,11 +28,11 @@ npm start
 
 # Screenshots
 - On running "npm start" command, a "Expo Developer Tools" window will open in the browser.
-[](./screenshots/developer_tools.png)
+![](./screenshots/developer_tools.png)
 
 - On clicking "Run in Web Browser", project will start initializing.
-[](./screenshots/run_in_web_browser.png)
-[](./screenshots/project_initialize.png)
+![](./screenshots/run_in_web_browser.png)
+![](./screenshots/project_initialize.png)
 
 - A new tab will open which will show the live clock.
-[](./screenshots/live_clock.png)
+![](./screenshots/live_clock.png)
