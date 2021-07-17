@@ -18,8 +18,12 @@ npm install -g expo-cli
 ```
 git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects  
 ```
-- Move to project directory.
+- Move to project directory. Open it with your code IDE.
 - In your IDE terminal, run command:
+```
+npm i
+```
+- When all the dependencies are successfully installed, run command:
 ```
 npm start
 ```
